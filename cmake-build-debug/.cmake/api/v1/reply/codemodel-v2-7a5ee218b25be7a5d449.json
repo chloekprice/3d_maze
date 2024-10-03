@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab_5_Maze",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab_5_Maze::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab_5_Maze-Debug-d0c95663d3cfe6d2d91f.json",
+					"name" : "Lab_5_Maze",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chloe/OneDrive/Desktop/Winter 2023/CS 235 Data Structures/LABS/Lab 5-Maze/cmake-build-debug",
+		"source" : "C:/Users/chloe/OneDrive/Desktop/Winter 2023/CS 235 Data Structures/LABS/Lab 5-Maze"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
